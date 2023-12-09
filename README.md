@@ -59,7 +59,7 @@
 
 
 ## Current Github Status 
-<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=windows-dark&hide_border=true" style="width: 700px;" alt="GitHub Streak" /></a>
+<a  href="https://github.com/pronoyNath"><img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=windows-dark&hide_border=true" style="width: 700px;" alt="GitHub Streak" /></a>
 
 
 ## Most Used Languages 
