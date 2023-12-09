@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Anthokhiya Nath</h1>
 <h3 align="center">Always up for a challenge, I thrive in dynamic environments where innovation and collaboration flourish.</h3>
 
+- Reach Me "pronoynath890@gmail.com"
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pronoynath" alt="pronoynath" /></a> </p>
 
 <!-- <h3 align="left">Connect with me:</h3>
@@ -66,9 +68,77 @@
 
 <br/>  
 
+
+## Current Github Status 
 <div style="display:flex; justify-content: between; gap:10px;  align-items: center;">
 <a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=windows-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronoynath&show_icons=true&locale=en&layout=compact" alt="pronoynath" /></p>
 </div>
+
+
+
+<!-- <div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>   -->
+ 
+
+## Projects
+All My Latest Projects
+
+<br/>  
+
+> 01
+# project: - Blood Donation
+# live-link : https://blood-donate-347ce.web.app/
+# Client-side Code: https://github.com/pronoyNath/blood-donate-client
+# Server-side Code: https://github.com/pronoyNath/blood-donation-server
+
+## Features
+* Streamlined donor registration and blood donation requests.
+* Role-based access control for Admin, Donor, and Volunteer.
+* Responsive user dashboards for efficient interaction and management.
+
+**Technologies: React.js, Node.js,Payment System, Daisy UI, Material UI (for loading), Firebase authentication**
+
+
+
+> 02
+# project:  Grand Hotel
+# live-link : https://grand-hotel-daa65.web.app/
+# Client-side Code: https://github.com/pronoyNath/grand-hotel-client
+# Server-side Code: https://github.com/pronoyNath/grand-hotel-server
+
+## Features
+* User Authentication with Firebase.
+* JWT Authentication for Secure Private Routes.
+* Booking System with Cancellation and Update Functionality.
+
+**Technologies: Firebase Authentication, React.js, Mongo-Db, Express.js**
+
+> 03
+# project: Taste Master
+# live-link : https://tastemastershub.web.app/
+# Client-side Code: https://github.com/pronoyNath/Taste-Master-Client
+# Server-side Code: https://github.com/pronoyNath/Taste-Master-server
+
+## Features
+* User can find popular brands product by 1 click.
+* Easy to buy any product.
+* Authenticated users can only shop here.
+
+**Technologies: React.js,express.js,Mongodb,Daisy UI,Tailwind**
+
+
+
+
+
+
+<br/>  
+
+
+
+
+----
+<div align="center">Feel Free To Contact <a href="https://profilinator.rishav.dev/" target="_blank">pronoynath890@gmail.com</a></div>
 
