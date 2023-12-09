@@ -15,8 +15,9 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=windows-dark&hide_border=true)](https://git.io/streak-stats)
+<div style="display:flex; justify-content: between; gap:10px;  align-items: center;">
+<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=windows-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronoynath&show_icons=true&locale=en&layout=compact" alt="pronoynath" /></p>
+</div>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
