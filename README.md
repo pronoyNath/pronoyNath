@@ -1,7 +1,7 @@
 ![MERN Stack Developer](/assets/Blue%20White%20Futuristic%20Future%20Technology%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Anthokhiya Nath</h1>
-<h3 align="center">Always up for a challenge, I thrive in dynamic environments where innovation and collaboration flourish.</h3>
+<h3 align="center">Currently I'm working with MERN Stack Technologies.I am comfortable with react.js, tailwind css,mongodb,node.js. I have recently started to learn next.js. Always up for a challenge, I thrive in dynamic environments where innovation and collaboration flourish.</h3>
 
 - Reach Me "pronoynath890@gmail.com"
 
