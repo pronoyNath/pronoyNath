@@ -99,7 +99,7 @@ All My Latest Projects
 
 > Project: 02
 # project-name:  Grand Hotel
-# live-link : https://grand-hotel-daa65.web.app/
+# live-link : https://grand-hotel-000.netlify.app
 # Client-side Code: https://github.com/pronoyNath/grand-hotel-client
 # Server-side Code: https://github.com/pronoyNath/grand-hotel-server
 
