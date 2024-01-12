@@ -61,7 +61,7 @@
 ## Current Github Status 
 <!-- <a  href="https://github.com/pronoyNath"><img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=windows-dark&hide_border=true" style="width: 700px;" alt="GitHub Streak" /></a>
  -->
- ![pronoyNath's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pronoyNath&theme=vue-dark&hide_border=true)
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pronoyNath?cardType=level-alternate&theme=jolly&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Most Used Languages 
 <p><img align="center" style="width: 700px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronoynath&show_icons=true&locale=en&layout=compact" alt="pronoynath" /></p>
