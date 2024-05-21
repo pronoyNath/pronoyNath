@@ -1,4 +1,4 @@
-![MERN Stack Developer](/assets/banner.png)
+![MERN Stack Developer](/assets/bannerMern.gif)
 
 <h1 align="center">Hi 👋, I'm Anthokhiya Nath</h1>
 <h3 align="center">Currently I'm working with MERN Stack Technologies.I am comfortable with react.js, tailwind css,mongodb,node.js. I have recently started to learn next.js. Always up for a challenge, I thrive in dynamic environments where innovation and collaboration flourish.I Want to be a senior web developer within next 3years.🤞</h3>
