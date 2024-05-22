@@ -71,12 +71,12 @@
 
 <div style="text-align: center; display: flex; gap:20px; align-items:center">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/pronoyNath?cardType=level-alternate&theme=jolly&preferLogin=false" alt="My Awesome Stats" style="height:300px;"/>
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/pronoyNath?cardType=level-alternate&theme=jolly&preferLogin=false" alt="My Awesome Stats" style="height:100px;"/>
   </a>
   <br>
   <div style="text-align: center;">
   <a href="https://git.io/streak-stats" style="">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=shadow-purple" style="height: 300px;" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=shadow-purple" style="height: 100px;" alt="GitHub Streak" />
   </a>
 </div>
 
