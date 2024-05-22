@@ -7,11 +7,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div></a>
 
-```
-![Visitor Count](https://profile-counter.glitch.me/pronoyNath/count.svg)
 
+<table>
+  <tr>
+    <td>Profile view:</td>
+    <td><img src="https://profile-counter.glitch.me/pronoyNath/count.svg" alt="Visitor Count"></td>
+  </tr>
+</table>
 
-```
 
 
 <h3 align="center">Currently I'm working with MERN Stack Technologies.I am comfortable with react.js, tailwind css,mongodb,node.js. I have recently started to learn next.js. Always up for a challenge, I thrive in dynamic environments where innovation and collaboration flourish.I Want to be a senior web developer within next 3years.🤞</h3>
