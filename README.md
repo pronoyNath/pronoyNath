@@ -69,16 +69,16 @@
 ## Current Github Status <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">
 <!-- <a  href="https://github.com/pronoyNath"><img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=windows-dark&hide_border=true" style="width: 700px;" alt="GitHub Streak" /></a> -->
 
-<div style="text-align: center; display: flex; gap:20px; align-items:center">
+<div align="center">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/pronoyNath?cardType=level-alternate&theme=jolly&preferLogin=false" alt="My Awesome Stats" style="height:100px;"/>
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/pronoyNath?cardType=level-alternate&theme=jolly&preferLogin=false" alt="My Awesome Stats" height="300">
   </a>
   <br>
-  <div style="text-align: center;">
-  <a href="https://git.io/streak-stats" style="">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=shadow-purple" style="height: 100px;" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=shadow-purple" alt="GitHub Streak" height="300">
   </a>
 </div>
+
 
 </div>
 
