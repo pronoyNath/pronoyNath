@@ -82,7 +82,7 @@
 
 </div>
 
-<div style="text-align: center; margin-top: 50px;">
+<div align="center" style="text-align: center; margin-top: 50px;">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="300"/>
 </div>
 
