@@ -2,9 +2,18 @@
 
 <h1 style="border:none; font-size:50px;" align="center">Hi <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="80" height="80" />, I'm Anthokhiya Nath</h1>
 <a href="https://www.facebook.com/Pronoy007">
+
 <div align="center" style="width: 100%;">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div></a>
+
+```
+![Visitor Count](https://profile-counter.glitch.me/pronoyNath/count.svg)
+
+
+```
+
+
 <h3 align="center">Currently I'm working with MERN Stack Technologies.I am comfortable with react.js, tailwind css,mongodb,node.js. I have recently started to learn next.js. Always up for a challenge, I thrive in dynamic environments where innovation and collaboration flourish.I Want to be a senior web developer within next 3years.🤞</h3>
 
 # Reach Me "pronoynath890@gmail.com"
