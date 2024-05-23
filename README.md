@@ -21,7 +21,7 @@
 
 # Reach Me "pronoynath890@gmail.com"
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pronoynath" alt="pronoynath" /></a> </p>
+<p align="center"> <a href="https://anthokhiya-nath.web.app"><img src="https://github-profile-trophy.vercel.app/?username=pronoynath" alt="pronoynath" /></a> </p>
 
 
 <h1 style="border:none; margin-top:50px; font-size:50px;" align="center" style="margin-top:10px;">💻 Technologies I'm Working With<img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "80" height= "80"></h1>
@@ -87,11 +87,11 @@
 <!-- <a  href="https://github.com/pronoyNath"><img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=windows-dark&hide_border=true" style="width: 700px;" alt="GitHub Streak" /></a> -->
 
 <div align="center">
-  <a href="https://git.io/awesome-stats-card">
+  <a href="https://anthokhiya-nath.web.app">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/pronoyNath?cardType=level-alternate&theme=jolly&preferLogin=false" alt="My Awesome Stats" height="300">
   </a>
   <br>
-  <a href="https://git.io/streak-stats">
+  <a href="https://anthokhiya-nath.web.app">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=pronoyNath&theme=shadow-purple" alt="GitHub Streak" height="300">
   </a>
 </div>
@@ -117,11 +117,11 @@
 
 ## Recently working with
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=A020F0)](https://anthokhiya-nath.web.app)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=A020F0)](https://anthokhiya-nath.web.app)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=A020F0)](https://anthokhiya-nath.web.app)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=A020F0)](https://anthokhiya-nath.web.app)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=A020F0)](https://anthokhiya-nath.web.app)
 
 
 
@@ -137,8 +137,8 @@
 <br />
 
 <p>
-
-<img alt="protfolio" height="160" src="assets/music.gif">
+<a href="https://anthokhiya-nath.web.app" target="_">
+<img alt="protfolio" height="160" src="assets/music.gif"> </a>
 </a>
 </p>
 
