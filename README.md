@@ -8,7 +8,7 @@
 </div></a>
 
 
-<table>
+<table align="center">
   <tr>
     <td>Profile view:</td>
     <td><img src="https://profile-counter.glitch.me/pronoyNath/count.svg" alt="Visitor Count"></td>
@@ -73,6 +73,11 @@
 </a>
 <a href="https://linkedin.com/in/anthokhiyanath" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> 
+<a href="https://anthokhiya-nath.web.app" target="_blank">
+<img src=https://img.shields.io/badge/porfolio-%231E77B5.svg?&style=for-the-badge&logo=man&logoColor=white alt=portfolio style="margin-bottom: 5px;" /> 
+
+[![Gmail Badge](https://img.shields.io/badge/-pronoynath890@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pronoynath890@gmail.com)](mailto:pronoynath890@gmail.com)
+
   
 
 <br/>  
@@ -108,7 +113,44 @@
 <!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   -->
- 
+
+
+## Recently working with
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=A020F0)](https://github.com/harish-sethuraman/readme-components)
+
+
+
+
+<!-- Social -->
+<table style="border:2px solid;" width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://anthokhiya-nath.web.app">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="protfolio" height="160" src="assets/music.gif">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+
 
 # Projects
 All My Latest Projects
@@ -118,7 +160,8 @@ All My Latest Projects
 
 
 > Project: 01
-# project-name: - Blood Donation
+# project-name: - Blood Donation <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ### live-link : https://blood-donate-347ce.web.app/
 ### Client-side Code: https://github.com/pronoyNath/blood-donate-client
 ### Server-side Code: https://github.com/pronoyNath/blood-donation-server
@@ -145,7 +188,8 @@ All My Latest Projects
 
 
 > Project: 02
-# project-name:  Grand Hotel
+# project-name:  Grand Hotel <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ### live-link : https://grand-hotel-000.netlify.app
 ### Client-side Code: https://github.com/pronoyNath/grand-hotel-client
 ### Server-side Code: https://github.com/pronoyNath/grand-hotel-server
@@ -170,7 +214,8 @@ All My Latest Projects
 
 
 > Project: 03
-# project-name: Taste Master
+# project-name: Taste Master <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ### live-link : https://tastemastershub.web.app/
 ### Client-side Code: https://github.com/pronoyNath/Taste-Master-Client
 ### Server-side Code: https://github.com/pronoyNath/Taste-Master-server
